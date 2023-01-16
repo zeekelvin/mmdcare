@@ -92,9 +92,9 @@ html{
 }
 .background-content{
     position: absolute;
-    top: 10%;
-    left: 40%;
-    width: 40%;
+    top: 33%;
+    left: 33%;
+    width: 33%;
     transform: translate(-80%);
 }
 .background-content h1{
